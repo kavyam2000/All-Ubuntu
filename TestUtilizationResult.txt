@@ -1,0 +1,10 @@
+0% /dev
+1% /run
+21% /
+0% /dev/shm
+0% /run/lock
+0% /sys/fs/cgroup
+100% /snap/amazon-ssm-agent/1480
+100% /snap/core/8268
+100% /snap/core/8592
+0% /run/user/1000

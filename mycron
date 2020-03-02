@@ -1,0 +1,2 @@
+# run every 5 minutes to create a file
+5 * * * * /usr/bin/touch /tmp/touch "myfile`date '+%Y%m%d%H%M%S'`.txt"
